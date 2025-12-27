@@ -21,7 +21,7 @@ for lines in file:
 print(count)
 ~~~
 ## Output
-<img width="502" height="84" alt="image" src="https://github.com/user-attachments/assets/28b73f4c-c9a3-4317-b1e6-a4cab83162fe" />
+<img width="162" height="35" alt="image" src="https://github.com/user-attachments/assets/50f27ec5-05d4-45a6-8f9f-5211970de395" />
 
 ## Result
 Thus, the program executed successfully.
